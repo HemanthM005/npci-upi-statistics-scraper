@@ -1,0 +1,5 @@
+requests>=2.31
+pandas>=2.1
+pandera>=0.20
+# Optional - only needed for the browser fallback path:
+playwright>=1.44
